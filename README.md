@@ -8,4 +8,4 @@ _Learning GitHub_
 
 9840697981
 
-| email | [demita1992@gmail.com][PlDb] 
+| email | [demita1992@gmail.com]
