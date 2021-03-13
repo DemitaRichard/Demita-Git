@@ -1,2 +1,3 @@
 # Demita-Git
-Learning GitHub
+_Learning GitHub_
+**Markdown Sytax**
