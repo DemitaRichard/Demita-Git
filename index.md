@@ -35,7 +35,7 @@ In vacant or in pensive mood, <br>
 They flash upon that inward eye <br>
 Which is the bliss of solitude; <br>
 And then my heart with pleasure fills, <br>
-And dances with the daffodils. * <br>
+And dances with the daffodils.* <br>
 
 Source: https://www.familyfriendpoems.com/poem/i-wandered-lonely-as-a-cloud-by-william-wordsworth
 
