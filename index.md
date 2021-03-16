@@ -14,7 +14,7 @@ That floats on high o'er vales and hills, <br>
 When all at once I saw a crowd, <br>
 A host, of golden daffodils; <br>
 Beside the lake, beneath the trees, <br>
-Fluttering and dancing in the breeze. <br>
+Fluttering and dancing in the breeze.* <br>
 
 Continuous as the stars that shine <br>
 And twinkle on the milky way, <br>
