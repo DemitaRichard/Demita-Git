@@ -10,7 +10,6 @@ year: 1807
 Published on {{ page.year}}
 
 *I wandered-lonely-as-a-cloud-by-william-wordsworthndered lonely as a cloud
-
 That floats on high o'er vales and hills,
 When all at once I saw a crowd,
 A host, of golden daffodils;
