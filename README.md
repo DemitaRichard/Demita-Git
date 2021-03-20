@@ -1,29 +1,15 @@
-# Demita-Git
+# About Me
 
-_Learning GitHub_
+## I am Demita, Technical Writer from Chennai, India
 
-**Markdown Syntax**
-<<<<<<< HEAD
-- Demo for local changes
-=======
+*Focussed professional having technical and communication skills, and contributing 5 years of experience in the software industry. Proficient in writing user manuals, user guides, online help and release notes. Specialize in thinking outside the box to find unique solutions to difficult engineering problems.*  
 
-# Demita
 
-Phone Number - 9840697981
+## Experience 
 
-email - demita1992@gmail.com
+### Senior Documentation Specialist
 
-### Hobbies
+#### Cognizant Technology Solutions
 
-- Singing
-
-- Dancing
+ April 2017- Present
  
-- Cooking
-
-- Drawing
-
-- Painting
-
-- Adding this bullet for forking
->>>>>>> 8a6d2a0e12020eb04c88fa116a6fc6bd52075e4c
