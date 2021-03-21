@@ -10,11 +10,11 @@ Company: Cognizant Technology Solutions
 
 
 ## Experience 
-### *Senior Documentation Specialist
+### Senior Documentation Specialist
 #### {{ page.Company }}
 April 2017- Present
  
-### *Technical Writer
+### Technical Writer
 #### {{ page.Company }}
 September 2015- April 2017
 
