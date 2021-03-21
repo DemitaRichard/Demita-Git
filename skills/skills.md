@@ -1,3 +1,4 @@
+### Skills
 -  [x] Project Management
 -  [x] Strategic Planning
 -  [x] Requirement Gathering
