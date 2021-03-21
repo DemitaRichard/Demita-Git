@@ -19,5 +19,6 @@ April 2017- Present
 #### {{ page.company }}
 September 2015- April 2017
 
-
+### Skills
+[click here to view my skills](skills/skills.md)
 
