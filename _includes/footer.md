@@ -1,6 +1,5 @@
 <hr/>
 
-<p><b><i>About me</i></b>: March 2021 <p>
+<p><b><i>Demita's Technical Writing Portfolio</i></b>: March 2021 <p>
 
-<p> Technical </p>
  

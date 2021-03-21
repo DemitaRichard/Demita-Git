@@ -1,14 +1,35 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
-	<head></head>
-	<body>
-		<header> demita {{ site.time }} {{ site.pages }} </header>
-		<main>
-			<div>
-				{{ content}}
-			</div>
-		</main>
-		<footer> © March 2021 </footer>
-	</body>
+
+<head>
+
+<title>{{ page.title }}</title>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="Description" content="Technical Writing Portfolio">
+
+<link rel="stylesheet" type="text/css" href="{{ "/assets/css/style.css" | absolute_url }}">
+
+</head>
+
+<body>
+
+<header>
+<p> This Portfolio was updated on {{site.day}} in the year {{site.year}}.</p>
+<hr/>
+</header>
+
+	<main>
+      <div>
+        {{ content }}
+      </div>
+    </main>
+
+<footer>{% include footer.md %}</footer>
+
+</body>
+
 </html>
-	

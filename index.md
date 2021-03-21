@@ -1,5 +1,7 @@
 ---
-Company: Cognizant Technology Solutions 
+layout: template
+company: Cognizant Technology Solutions 
+title: Demita's Portfolio
 ---
 
 # About Me
@@ -8,12 +10,13 @@ Company: Cognizant Technology Solutions
 
 
 ## Experience 
+
 ### Senior Documentation Specialist
-#### {{ page.Company }}
+#### {{ page.company }}
 April 2017- Present
  
 ### Technical Writer
-#### {{ page.Company }}
+#### {{ page.company }}
 September 2015- April 2017
 
 
